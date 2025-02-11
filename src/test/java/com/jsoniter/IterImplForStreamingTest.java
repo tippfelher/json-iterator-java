@@ -6,8 +6,8 @@ import java.io.ByteArrayInputStream;
 import java.io.IOException;
 import java.io.InputStream;
 import junit.framework.TestCase;
+import org.apache.commons.lang3.NotImplementedException;
 import org.junit.experimental.categories.Category;
-import sun.reflect.generics.reflectiveObjects.NotImplementedException;
 
 public class IterImplForStreamingTest extends TestCase {
 
